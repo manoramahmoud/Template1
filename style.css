@@ -679,12 +679,12 @@ new-content h3 {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background-color: green;
+    background-color: #f09e05;
     line-height: 50px;
     position: relative;
 }
 .footer-icon i:hover {
-    color: #666;
+    color: red;
  
 }
 .footer p {
